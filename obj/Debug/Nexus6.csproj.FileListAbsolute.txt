@@ -1,0 +1,7 @@
+C:\Users\Matheus\source\repos\LotoF\bin\Debug\LotoF.exe.config
+C:\Users\Matheus\source\repos\LotoF\bin\Debug\LotoF.exe
+C:\Users\Matheus\source\repos\LotoF\bin\Debug\LotoF.pdb
+C:\Users\Matheus\source\repos\LotoF\obj\Debug\LotoF.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\LotoF\obj\Debug\LotoF.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\LotoF\obj\Debug\LotoF.exe
+C:\Users\Matheus\source\repos\LotoF\obj\Debug\LotoF.pdb

@@ -14,7 +14,12 @@ To run and use Nexus 6, you'll need to have .NET Framework and if you want to ed
 
 ### Usage
 
-1. Run Nexus6.exe
+1. Open the Nexus6 in \\bin\debug\Nexus6
+2. Select optiion 1 to start
+3. Select how many numbers in total do you want to have on your list
+4. Select how many times do you want to program to run
+5. Select how many numbers from 1 to n do you want to select
+6. Run
 * Powershell
 ```
 Select the number of rounds, numbers in total and how many times do you want to run Nexus 6
